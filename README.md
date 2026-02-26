@@ -1,12 +1,27 @@
-- 👋 Hola soy @Ecartazo
-- 👀 Estoy interesado en hacking, EDM, Hermetismo, Artes marciales, y muchas otras cosas más
-- 🌱 Actualmente estoy aprendiendo...
-- 💞️ Busco colaborar en...
-- 📫 Cómo contactarme...
-- 😄 Pronombres: Logui
-- ⚡ Dato curioso: ...
+👋 Hola, soy @Ecartazo  
 
-<!---
-Ecartazo/Ecartazo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Objetivo:** Convertirme en SOC / Blue Team Junior, aprendiendo y aplicando ciberseguridad de manera práctica.  
+
+👀 **Intereses:** Ciberseguridad, hacking ético, análisis de logs, defensa de redes, automatización de seguridad.  
+
+🌱 **Actualmente estoy aprendiendo:**  
+- Redes y protocolos TCP/IP, DNS, HTTP  
+- Linux aplicado a seguridad (/var/log, procesos, permisos, systemctl)  
+- SIEM con Wazuh y Splunk  
+- Herramientas de análisis: Wireshark, Nmap  
+- Python aplicado a seguridad  
+
+💻 **Proyectos y laboratorios:**  
+- Documentación de laboratorios en [TryHackMe](https://tryhackme.com)  
+- Análisis de incidentes simulados y reportes técnicos  
+- Escaneo y monitoreo de redes  
+- Scripts y ejercicios de Python orientados a seguridad  
+
+💞️ **Busco colaborar en:**  
+- Proyectos de Blue Team / SOC  
+- Open source de ciberseguridad  
+- Creación de playbooks de respuesta a incidentes  
+
+📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/cartazoezequiel)  
+
+⚡ **Dato curioso:** Siempre documentando todo en GitHub y LinkedIn para que otros puedan aprender conmigo.
